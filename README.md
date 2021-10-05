@@ -1,6 +1,6 @@
 ```
-#PROJECT ALPACA
-#GAJIDA System v2021.10.02
+PROJECT UI
+GAJIDA v2021.10.02
 ```
 ---
 ## 서비스 소개
