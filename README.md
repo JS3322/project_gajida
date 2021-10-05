@@ -1,4 +1,5 @@
 ```
+#PROJECT ALPACA
 #GAJIDA System v2021.10.02
 ```
 ---
@@ -17,6 +18,7 @@
 ---
 ### Log
 20211002 init project gajida
+20211003 add preprocessing add luigi
 
 ## Stay in touch
 
