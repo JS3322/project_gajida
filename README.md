@@ -35,4 +35,4 @@ GAJIDA v2021.10.02
 ---
 *name : JS  
 *page : cleancode.kr    
-*email : bada@ganada.kr
+*email : js@cleancode.kr  
