@@ -22,7 +22,7 @@ GAJIDA v2021.10.02
 
 ## Stay in touch
 
-- Designer - [JS KIM](https://cleancode.kr)
+- Designer - [JS](https://cleancode.kr)
 
 ## Support
 
@@ -33,6 +33,6 @@ GAJIDA v2021.10.02
 [MIT licensed](LICENSE)
 
 ---
-*name : JS  
+*name : JS3322  
 *page : cleancode.kr    
 *email : js@cleancode.kr  
